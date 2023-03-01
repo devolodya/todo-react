@@ -1,0 +1,21 @@
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    background-color: rgb(59, 59, 59);
+    margin: 0 auto;
+    color: white;
+    font-weight: 600;
+    margin-top: 10px;
+}
+button{
+    width: 100px;
+}
+p{
+    font-weight: 400;
+    color: red;
+    font-size: 14px;
+}

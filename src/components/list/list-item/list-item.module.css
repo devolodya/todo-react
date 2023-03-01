@@ -1,0 +1,14 @@
+.item{
+    width: 400px;
+    height: 30px;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+}
+span{
+    width: 100px;
+    line-height: 30px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    text-align: center;
+}
